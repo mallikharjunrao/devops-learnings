@@ -3,3 +3,5 @@ ZIpKin
 Rocket
 Nomad
 prometheus : Monitoring K8S backed architecture
+Monitoring Docker Containers with Weave Scope : wave scope | https://www.weave.works/guides/monitor-docker-containers/
+
