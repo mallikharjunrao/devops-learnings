@@ -5,6 +5,6 @@ Nomad
 prometheus : Monitoring K8S backed architecture
 Monitoring Docker Containers with Weave Scope : wave scope | https://www.weave.works/guides/monitor-docker-containers/
 GitLab on Openshift | https://about.gitlab.com/2016/06/28/get-started-with-openshift-origin-3-and-gitlab/#import-the-template
-Docker Container visualizer | https://imagelayers.io/
+Docker Image/Container visualizer | https://imagelayers.io/
 
 
